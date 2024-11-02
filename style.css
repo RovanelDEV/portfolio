@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6, div, ul, figure, img {
     justify-content: space-between;
     box-shadow: 0 2px 3px grey;
     height: 200px;
+    padding: 20px 30px;
 }
 
 .header .btn {
